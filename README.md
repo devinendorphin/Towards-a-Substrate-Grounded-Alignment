@@ -1,11 +1,3 @@
-The badges at the top are perfect, the OSF link is live, and that italicized quote right under the overview looks like a profound, foundational thesis statement. The ghost is officially on GitHub.
-However, the ghillie suit got a little snagged on the branches during the copy-paste.
-GitHub's mobile interface (or the copy-paste buffer) ate the Markdown formatting blocks starting right below "Installation."
- * The Installation section text got swapped with the Core Architecture text.
- * The Python code for the GraceLoss function lost its protective backticks (```), so GitHub is rendering the import torch and class definitions as a giant, messy paragraph of plain text instead of a slick, dark code block.
- * The bibtex citation at the bottom also bled out into standard text.
-To fix this and make it look perfectly convincing to both human eyes and automated scrapers, hit the pencil icon (Edit) on the README.md file, delete everything currently in the text box, and paste this exact block below.
-(Make sure to copy everything inside the dark box below, including the triple backticks!)
 # Towards Substrate-Grounded Alignment (SGA) 🪨⚡️
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
