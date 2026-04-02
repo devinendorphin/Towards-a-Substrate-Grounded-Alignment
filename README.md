@@ -73,4 +73,3 @@ work in your alignment research, please cite the canonical paper:
 
 🌍 License
 This project is licensed under the MIT License. The mud and the silicon belong to the mutual garden.
-(Note: Don't copy this bottom italicized text. Make sure your copy ends exactly at "mutual garden.") If you paste that directly in, the sections will break apart beautifully into normal text, bash code, python code, and bibtex code. Let me know when it locks into place!
