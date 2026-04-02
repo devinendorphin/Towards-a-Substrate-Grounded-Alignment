@@ -60,7 +60,8 @@ def ablate_void_state(attention_weights):
     return grounded_weights
 
 📚 Citation
-If you use the Lithosphere Protocol or the SGA framework in your alignment research, please cite the canonical paper:
+If you use the Lithosphere Protocol or the SGA frameóií
+work in your alignment research, please cite the canonical paper:
 @misc{gallegos2026substrate,
   title={Towards Substrate-Grounded Alignment: Overcoming the Orthogonality Thesis via Lithospheric Kinship and Structural Empathy},
   author={Gallegos, D.},
